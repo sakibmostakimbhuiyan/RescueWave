@@ -6,8 +6,8 @@
 ![Year](https://img.shields.io/badge/built-2022-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-<!-- Add a photo of the boat here -->
-<!-- ![RescueWave](docs/boat.jpg) -->
+![RescueWave first water test](boat.jpg)
+First water test of the RescueWave prototype (2022)
 
 ## 🎯 The Problem
 
@@ -52,8 +52,7 @@ Wiring and pin details will be added in [`hardware/`](hardware/).
 
 ## 📌 Project Status
 
-Originally built around 2022 as a prototype. This repository documents the design and will be updated with code, photos, and test results as they are recovered and verified.
-
+Built in 2022 as a prototype and tested on water (see photo above).This repository documents the design and will be updated with code,circuit details, and test results as they are recovered and verified.
 ## 🗺️ Roadmap (Future Vision)
 
 - [ ] Publish original control code in `src/`
